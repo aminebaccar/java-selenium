@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: net.jsourcerer.webdriver:JSErrorCollector:0.5-atlassian-2">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/net/jsourcerer/webdriver/JSErrorCollector/0.5-atlassian-2/JSErrorCollector-0.5-atlassian-2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/net/jsourcerer/webdriver/JSErrorCollector/0.5-atlassian-2/JSErrorCollector-0.5-atlassian-2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/net/jsourcerer/webdriver/JSErrorCollector/0.5-atlassian-2/JSErrorCollector-0.5-atlassian-2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
